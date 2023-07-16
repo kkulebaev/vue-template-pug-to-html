@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint": "^8.23.1",
-    "prettier": "^2.7.1",
+    "prettier": "^3.0.0",
     "pug": "^3.0.2",
     "unescape": "^1.0.1",
     "walktree": "^0.2.1"
